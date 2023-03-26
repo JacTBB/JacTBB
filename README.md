@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Jack!</h1>  
-<h3 align="center">A software engineer in the making.</h3>  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=001FD4&multiline=true&width=435&lines=Hi%2C+I+am+JacTBB!;A+software+engineer+in+the+making.)](https://git.io/typing-svg)
+
+___
 
 ### Stats:
 |  |  |
