@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=001FD4&multiline=true&width=435&lines=Hi%2C+I+am+JacTBB!;A+software+engineer+in+the+making.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=001FD4&multiline=true&width=435&height=60&lines=Hi%2C+I+am+JacTBB!;A+software+engineer+in+the+making.)](https://git.io/typing-svg)
 
 ___
 
